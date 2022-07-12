@@ -11,3 +11,5 @@
 3. Evaluation
 
 ### Following along [Fine-tuning XLS-R for Multi-Lingual ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-xlsr-wav2vec2)
+
+### You can find the [model on the 🤗 Hub](https://huggingface.co/omarxadel/wav2vec2-large-xlsr-53-arabic-egyptian)
